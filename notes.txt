@@ -1,0 +1,3 @@
+- Training on image patches not images themselves.
+- Dataset matters a little. Mostly it matters if the images are large enough to sample small patches that can take represent small and simples shapes.
+-  
